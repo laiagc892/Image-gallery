@@ -1,4 +1,4 @@
-# gallery-XL
+# Image gallery
 Back End project developed in the bootcamp with a classmate. It shows an image gallery where you can upload picture's url and edit or delete them. They are also sorted by date.
 
 ## To visualize:
